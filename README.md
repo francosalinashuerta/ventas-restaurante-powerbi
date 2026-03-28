@@ -64,6 +64,12 @@ Los tres métodos (efectivo, tarjeta de crédito y billetera digital) tienen par
 
 ---
 
+## 📊 Dashboard
+
+![Dashboard Preview](dashboard_preview.png)
+
+---
+
 ## 📂 Dataset
 
 - **Fuente:** Dataset de práctica — registros de ventas de restaurante (2022–2023)
